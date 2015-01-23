@@ -1,0 +1,11 @@
+t.x (sin -{x})
+
+s.x (t {x})+{x} 
+
+f.x  (s (t {x}))
+
+com.fgx ({f} ({g} {x}))
+
+--~ V= (com t t "hah   hahah   hahah (t 3)")
+V= (t 1.57)
+

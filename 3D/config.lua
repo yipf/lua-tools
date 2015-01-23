@@ -1,0 +1,2 @@
+require 'luagl'
+require 'luaglu'
